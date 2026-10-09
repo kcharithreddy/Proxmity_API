@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+generate_unique_report.py
+generate_pdf.py
+deploy.py
+*.tmp
+page-*.png
+postman_crop.png
